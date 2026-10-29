@@ -1,0 +1,8 @@
+name = "BCLib-20.0.16-forge"
+filename = "BCLib-20.0.16-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/BCLib-20.0.16-forge.jar"
+hash-format = "sha256"
+hash = "3c8965d89f9545aeed77e5e7c59b4860f4331600b4a7de8f9435e6618689d0fa"

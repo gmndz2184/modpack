@@ -1,0 +1,8 @@
+name = "COP-Create+6.0.7-3.1"
+filename = "COP-Create+6.0.7-3.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/COP-Create%2B6.0.7-3.1.jar"
+hash-format = "sha256"
+hash = "4661c4d4518249c6f96e667e0ab80cad7fe2bb426066cc9a13d5fa277877b3b8"

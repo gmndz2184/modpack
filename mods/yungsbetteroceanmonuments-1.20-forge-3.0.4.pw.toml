@@ -1,0 +1,8 @@
+name = "YungsBetterOceanMonuments-1.20-Forge-3.0.4"
+filename = "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+hash-format = "sha256"
+hash = "bea2640c4afeb5231362a756d886ca4f246c7951175c91348272b3ce5d483bae"

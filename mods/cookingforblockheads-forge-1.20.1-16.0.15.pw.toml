@@ -1,0 +1,8 @@
+name = "cookingforblockheads-forge-1.20.1-16.0.15"
+filename = "cookingforblockheads-forge-1.20.1-16.0.15.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/cookingforblockheads-forge-1.20.1-16.0.15.jar"
+hash-format = "sha256"
+hash = "afe0e99f9929b29abed3ee9530c834255d9ec723d3790f2f2e6f3c6f60799cba"

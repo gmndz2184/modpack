@@ -1,0 +1,8 @@
+name = "minecraft-comes-alive-7.7.1-beta.5+1.20.1-universal"
+filename = "minecraft-comes-alive-7.7.1-beta.5+1.20.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/minecraft-comes-alive-7.7.1-beta.5%2B1.20.1-universal.jar"
+hash-format = "sha256"
+hash = "0661e8d59918143f1d6c89d279dbdd7c2772b64ac51806394b2ba291c1449771"

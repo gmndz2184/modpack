@@ -1,0 +1,8 @@
+name = "JustEnoughProfessions-forge-1.20.1-3.0.1"
+filename = "JustEnoughProfessions-forge-1.20.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/JustEnoughProfessions-forge-1.20.1-3.0.1.jar"
+hash-format = "sha256"
+hash = "13e2012375d16663192cf67f5e4139335e5dcbeaf2adf7e8a4816b013802f96a"

@@ -1,0 +1,8 @@
+name = "reliquary-1.20.1-2.0.66.1577"
+filename = "reliquary-1.20.1-2.0.66.1577.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/reliquary-1.20.1-2.0.66.1577.jar"
+hash-format = "sha256"
+hash = "f964cf10ca78b989bd05c5bcecdc2eb19210a20eb5fa801f98ee93250f748c1a"

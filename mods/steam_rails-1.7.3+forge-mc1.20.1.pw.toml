@@ -1,0 +1,8 @@
+name = "Steam_Rails-1.7.3+forge-mc1.20.1"
+filename = "Steam_Rails-1.7.3+forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/Steam_Rails-1.7.3%2Bforge-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "0e98b72472ff78464f6e69025bb47f942e7f66a976382fbb87ceff765a8b00cf"

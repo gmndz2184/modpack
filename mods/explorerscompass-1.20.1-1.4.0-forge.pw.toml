@@ -1,0 +1,8 @@
+name = "ExplorersCompass-1.20.1-1.4.0-forge"
+filename = "ExplorersCompass-1.20.1-1.4.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/ExplorersCompass-1.20.1-1.4.0-forge.jar"
+hash-format = "sha256"
+hash = "0d9a7705f39a9eac19c33e0fbe5422280048991a341dc0d9471bff32111c502c"

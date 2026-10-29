@@ -1,0 +1,8 @@
+name = "mcw-roofs-2.3.2-mc1.20.1forge"
+filename = "mcw-roofs-2.3.2-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-roofs-2.3.2-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "3554317ad8d082a3d9fb5d8b387f5206e545323b4387ed1b93b7b3bf889def3f"

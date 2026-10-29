@@ -1,0 +1,8 @@
+name = "sodiumextras-forge-1.0.7-1.20.1"
+filename = "sodiumextras-forge-1.0.7-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/sodiumextras-forge-1.0.7-1.20.1.jar"
+hash-format = "sha256"
+hash = "ce9a13c5f07e350f9c0b86af9e096aedb91cbc72996e59646da61ec724f1e4df"

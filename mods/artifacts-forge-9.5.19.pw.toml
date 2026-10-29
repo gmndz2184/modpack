@@ -1,0 +1,8 @@
+name = "artifacts-forge-9.5.19"
+filename = "artifacts-forge-9.5.19.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/artifacts-forge-9.5.19.jar"
+hash-format = "sha256"
+hash = "f1e4dc786866b6e4f2a48142f2acf63bb9bee54ac2f31621ad5d8f18ab54c7b0"

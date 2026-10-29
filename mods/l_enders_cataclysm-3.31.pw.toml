@@ -1,0 +1,8 @@
+name = "L_Enders_Cataclysm-3.31"
+filename = "L_Enders_Cataclysm-3.31.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/L_Enders_Cataclysm-3.31.jar"
+hash-format = "sha256"
+hash = "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362"

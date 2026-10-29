@@ -1,0 +1,8 @@
+name = "skinlayers3d-forge-1.11.4-mc1.20.1"
+filename = "skinlayers3d-forge-1.11.4-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/skinlayers3d-forge-1.11.4-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "df839af815c55fff84136136bc02868d93771f4a7fcbbf9a9f9d0e04c0d29904"

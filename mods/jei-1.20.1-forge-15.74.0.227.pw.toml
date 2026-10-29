@@ -1,0 +1,8 @@
+name = "jei-1.20.1-forge-15.74.0.227"
+filename = "jei-1.20.1-forge-15.74.0.227.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/jei-1.20.1-forge-15.74.0.227.jar"
+hash-format = "sha256"
+hash = "5db7d68b44e289ba7f207b58f79af7cd2be10da7e5a46cfc664045d840a4fc8a"

@@ -1,0 +1,8 @@
+name = "MekanismTools-1.20.1-10.4.16.80"
+filename = "MekanismTools-1.20.1-10.4.16.80.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/MekanismTools-1.20.1-10.4.16.80.jar"
+hash-format = "sha256"
+hash = "29089222fd52d272d767d7d2f62b9e6b401b3280a212be096eaedb0fc48aacfb"

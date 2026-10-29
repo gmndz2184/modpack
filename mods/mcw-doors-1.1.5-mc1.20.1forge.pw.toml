@@ -1,0 +1,8 @@
+name = "mcw-doors-1.1.5-mc1.20.1forge"
+filename = "mcw-doors-1.1.5-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-doors-1.1.5-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af"

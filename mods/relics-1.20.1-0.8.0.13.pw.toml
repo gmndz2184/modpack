@@ -1,0 +1,8 @@
+name = "relics-1.20.1-0.8.0.13"
+filename = "relics-1.20.1-0.8.0.13.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/relics-1.20.1-0.8.0.13.jar"
+hash-format = "sha256"
+hash = "2731d3b81533564c5d206faf94e4e8afaf928d97b47b720e5d6aaa017333096f"

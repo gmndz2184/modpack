@@ -1,0 +1,8 @@
+name = "sophisticatedstorage-1.20.1-1.5.6.2183"
+filename = "sophisticatedstorage-1.20.1-1.5.6.2183.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/sophisticatedstorage-1.20.1-1.5.6.2183.jar"
+hash-format = "sha256"
+hash = "f3448e7899b0c54568a6c20d6dd63026a5e98b11b6d7f691d769e298fb6f73a3"

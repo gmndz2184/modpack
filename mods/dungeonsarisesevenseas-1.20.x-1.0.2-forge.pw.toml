@@ -1,0 +1,8 @@
+name = "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge"
+filename = "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"
+hash-format = "sha256"
+hash = "4d8b2ee057d08cf13be96d05a08fc933e835d6c36395c692662871d4a1319be2"

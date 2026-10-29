@@ -1,0 +1,8 @@
+name = "xaeroworldmap-forge-1.20.1-1.47.0"
+filename = "xaeroworldmap-forge-1.20.1-1.47.0.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/xaeroworldmap-forge-1.20.1-1.47.0.jar"
+hash-format = "sha256"
+hash = "88c6d844163c95a94d92bc6d87d9011cc840bd6207c3099a81b113d4450a3f6b"

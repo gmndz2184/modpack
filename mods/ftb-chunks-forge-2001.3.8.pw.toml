@@ -1,0 +1,8 @@
+name = "ftb-chunks-forge-2001.3.8"
+filename = "ftb-chunks-forge-2001.3.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/ftb-chunks-forge-2001.3.8.jar"
+hash-format = "sha256"
+hash = "783f7aa42089b6f72500801284796f7cc8eb641ecddcf76f65bf586c017efb02"

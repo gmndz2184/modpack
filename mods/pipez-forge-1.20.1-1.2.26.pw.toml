@@ -1,0 +1,8 @@
+name = "pipez-forge-1.20.1-1.2.26"
+filename = "pipez-forge-1.20.1-1.2.26.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/pipez-forge-1.20.1-1.2.26.jar"
+hash-format = "sha256"
+hash = "f692b0a24c46c954358db8535248021deaf3399973c4e746ba1e3e115a8a48c9"

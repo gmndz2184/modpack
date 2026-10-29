@@ -1,0 +1,8 @@
+name = "justzoom_forge_3.0.1_MC_1.20.1"
+filename = "justzoom_forge_3.0.1_MC_1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/justzoom_forge_3.0.1_MC_1.20.1.jar"
+hash-format = "sha256"
+hash = "d8b6576e6c0f467a2521db0c5183512f7abf2dbf8afb651c7056c7605ed438b9"

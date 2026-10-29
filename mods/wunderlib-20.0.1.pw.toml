@@ -1,0 +1,8 @@
+name = "WunderLib-20.0.1"
+filename = "WunderLib-20.0.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/WunderLib-20.0.1.jar"
+hash-format = "sha256"
+hash = "33d30150d69f0b1f1b077dab0edbefdca5e274bfa9a56578c6fe35d4dc62ccbd"

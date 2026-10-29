@@ -1,0 +1,8 @@
+name = "mcw-furniture-3.4.1-mc1.20.1forge"
+filename = "mcw-furniture-3.4.1-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-furniture-3.4.1-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "9f068315ac5ae7c4b76a6ac0679cde9be59d5cbf37488a477f13b95fe1cbc37d"

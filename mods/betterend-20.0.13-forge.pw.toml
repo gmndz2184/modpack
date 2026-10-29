@@ -1,0 +1,8 @@
+name = "BetterEnd-20.0.13-forge"
+filename = "BetterEnd-20.0.13-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/BetterEnd-20.0.13-forge.jar"
+hash-format = "sha256"
+hash = "6c7c2ee3ddf0ff2b1190bcf8511de01e4e4ee12c9520fe97adf269b1eb52ea6b"

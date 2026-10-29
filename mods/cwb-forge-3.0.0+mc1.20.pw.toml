@@ -1,0 +1,8 @@
+name = "cwb-forge-3.0.0+mc1.20"
+filename = "cwb-forge-3.0.0+mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/cwb-forge-3.0.0%2Bmc1.20.jar"
+hash-format = "sha256"
+hash = "97b0827f20b6213c97d2244f7da205d85ffa72e51fa167d69466b49018532478"

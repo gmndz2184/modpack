@@ -1,0 +1,8 @@
+name = "copycats-3.0.10+mc.1.20.1-forge"
+filename = "copycats-3.0.10+mc.1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/copycats-3.0.10%2Bmc.1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "684a7a65a576d84bee4250b3cc10ddcaa66958cee05b541b1cd99df8bdc0185e"

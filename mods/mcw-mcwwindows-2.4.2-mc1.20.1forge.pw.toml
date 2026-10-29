@@ -1,0 +1,8 @@
+name = "mcw-mcwwindows-2.4.2-mc1.20.1forge"
+filename = "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "7674d829d5a38d91ca68061e087fded92e976e3e461edcf75117e37a257e8f10"

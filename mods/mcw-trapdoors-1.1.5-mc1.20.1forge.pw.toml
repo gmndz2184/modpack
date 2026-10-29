@@ -1,0 +1,8 @@
+name = "mcw-trapdoors-1.1.5-mc1.20.1forge"
+filename = "mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "c2abff58334d79ea61278c6dffd941a4f4ceb5cffadf889359fd45a003738217"

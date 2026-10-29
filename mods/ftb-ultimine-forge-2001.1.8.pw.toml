@@ -1,0 +1,8 @@
+name = "ftb-ultimine-forge-2001.1.8"
+filename = "ftb-ultimine-forge-2001.1.8.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/ftb-ultimine-forge-2001.1.8.jar"
+hash-format = "sha256"
+hash = "b80dde55b2c91fd27f09f15ed2aefb0756c7bd704316e488ae8a06b179e85730"

@@ -1,0 +1,8 @@
+name = "YungsBetterEndIsland-1.20-Forge-2.0.6"
+filename = "YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+hash-format = "sha256"
+hash = "05c2f43a67116f0bbca32d903b55ce1655b9319ed6554080de02bd1d0c232a83"

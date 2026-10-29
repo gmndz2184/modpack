@@ -1,0 +1,8 @@
+name = "DungeonsArise-1.20.x-2.1.58-release"
+filename = "DungeonsArise-1.20.x-2.1.58-release.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/DungeonsArise-1.20.x-2.1.58-release.jar"
+hash-format = "sha256"
+hash = "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90"

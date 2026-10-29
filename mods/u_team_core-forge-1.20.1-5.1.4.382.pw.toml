@@ -1,0 +1,8 @@
+name = "u_team_core-forge-1.20.1-5.1.4.382"
+filename = "u_team_core-forge-1.20.1-5.1.4.382.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/u_team_core-forge-1.20.1-5.1.4.382.jar"
+hash-format = "sha256"
+hash = "ff502986f27f47409b3bd1c02cbbeeacf9d035069c47b2560fc81bafca8a2c35"

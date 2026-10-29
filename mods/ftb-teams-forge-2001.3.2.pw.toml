@@ -1,0 +1,8 @@
+name = "ftb-teams-forge-2001.3.2"
+filename = "ftb-teams-forge-2001.3.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/ftb-teams-forge-2001.3.2.jar"
+hash-format = "sha256"
+hash = "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07"

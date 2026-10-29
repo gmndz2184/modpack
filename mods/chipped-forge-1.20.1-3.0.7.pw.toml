@@ -1,0 +1,8 @@
+name = "chipped-forge-1.20.1-3.0.7"
+filename = "chipped-forge-1.20.1-3.0.7.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/chipped-forge-1.20.1-3.0.7.jar"
+hash-format = "sha256"
+hash = "300e02535342b710fb34409821de9d097b0d8b17f56a57a17d75d05c4c1c5b63"

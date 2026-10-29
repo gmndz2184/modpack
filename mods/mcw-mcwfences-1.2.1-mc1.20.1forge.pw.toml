@@ -1,0 +1,8 @@
+name = "mcw-mcwfences-1.2.1-mc1.20.1forge"
+filename = "mcw-mcwfences-1.2.1-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-mcwfences-1.2.1-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "10deb617769e9674a767a3991af4c46afd081b5de42cee326f71ef2700a14313"

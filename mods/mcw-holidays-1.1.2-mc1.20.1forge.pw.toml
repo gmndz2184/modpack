@@ -1,0 +1,8 @@
+name = "mcw-holidays-1.1.2-mc1.20.1forge"
+filename = "mcw-holidays-1.1.2-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-holidays-1.1.2-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "47f33b62170b45a8a4195f83b50e9df468f65027c7e309fc583e9acaeae844cc"

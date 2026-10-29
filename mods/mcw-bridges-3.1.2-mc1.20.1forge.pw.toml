@@ -1,0 +1,8 @@
+name = "mcw-bridges-3.1.2-mc1.20.1forge"
+filename = "mcw-bridges-3.1.2-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-bridges-3.1.2-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "95c5aae4e82758d5c0ca2ba61c4cf72e9240e53f68befe8104c68fa9f9b19eed"

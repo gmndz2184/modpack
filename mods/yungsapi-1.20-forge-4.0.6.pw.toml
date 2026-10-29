@@ -1,0 +1,8 @@
+name = "YungsApi-1.20-Forge-4.0.6"
+filename = "YungsApi-1.20-Forge-4.0.6.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/YungsApi-1.20-Forge-4.0.6.jar"
+hash-format = "sha256"
+hash = "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1"

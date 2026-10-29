@@ -1,0 +1,8 @@
+name = "cosmeticarmorreworked-1.20.1-v1a"
+filename = "cosmeticarmorreworked-1.20.1-v1a.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/cosmeticarmorreworked-1.20.1-v1a.jar"
+hash-format = "sha256"
+hash = "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804"

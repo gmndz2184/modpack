@@ -1,0 +1,8 @@
+name = "sophisticatedcore-1.20.1-1.5.14.2419"
+filename = "sophisticatedcore-1.20.1-1.5.14.2419.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/sophisticatedcore-1.20.1-1.5.14.2419.jar"
+hash-format = "sha256"
+hash = "d781774c9960f609868f5f1e37f58e4245dfeb7504f6603fc5a18909ab330f25"

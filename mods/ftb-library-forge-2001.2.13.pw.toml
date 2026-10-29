@@ -1,0 +1,8 @@
+name = "ftb-library-forge-2001.2.13"
+filename = "ftb-library-forge-2001.2.13.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/ftb-library-forge-2001.2.13.jar"
+hash-format = "sha256"
+hash = "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"

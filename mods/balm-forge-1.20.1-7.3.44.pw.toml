@@ -1,0 +1,8 @@
+name = "balm-forge-1.20.1-7.3.44"
+filename = "balm-forge-1.20.1-7.3.44.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/balm-forge-1.20.1-7.3.44.jar"
+hash-format = "sha256"
+hash = "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3"

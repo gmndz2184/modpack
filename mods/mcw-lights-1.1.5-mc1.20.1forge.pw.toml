@@ -1,0 +1,8 @@
+name = "mcw-lights-1.1.5-mc1.20.1forge"
+filename = "mcw-lights-1.1.5-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-lights-1.1.5-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "174437555ff8b3938b5af8fa3f6efcc528fc101e90e35b89570323e4a3726f0a"

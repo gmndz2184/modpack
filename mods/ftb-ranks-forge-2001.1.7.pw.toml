@@ -1,0 +1,8 @@
+name = "ftb-ranks-forge-2001.1.7"
+filename = "ftb-ranks-forge-2001.1.7.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/ftb-ranks-forge-2001.1.7.jar"
+hash-format = "sha256"
+hash = "ec654cb94b3be8217da91f114667d7b0170c7be2ed533ac7e4faa337d1f5b872"

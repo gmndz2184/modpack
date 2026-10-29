@@ -1,0 +1,8 @@
+name = "NaturesCompass-1.20.1-1.12.0-forge"
+filename = "NaturesCompass-1.20.1-1.12.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/NaturesCompass-1.20.1-1.12.0-forge.jar"
+hash-format = "sha256"
+hash = "bc3601e9e050802569647de843fe9d3160934c5f31412cba62ca2ea8c1485197"

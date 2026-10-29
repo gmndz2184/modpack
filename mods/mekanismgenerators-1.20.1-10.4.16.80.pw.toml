@@ -1,0 +1,8 @@
+name = "MekanismGenerators-1.20.1-10.4.16.80"
+filename = "MekanismGenerators-1.20.1-10.4.16.80.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/MekanismGenerators-1.20.1-10.4.16.80.jar"
+hash-format = "sha256"
+hash = "be2d5b8553f8638cfabf491002f95cef6acef210f627addb391f5af713502512"

@@ -1,0 +1,8 @@
+name = "trashslot-forge-1.20.1-15.1.5"
+filename = "trashslot-forge-1.20.1-15.1.5.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/trashslot-forge-1.20.1-15.1.5.jar"
+hash-format = "sha256"
+hash = "7f038937dffeebc3885d347c47622d504a562da0bcce7873c50f2753db0a3746"

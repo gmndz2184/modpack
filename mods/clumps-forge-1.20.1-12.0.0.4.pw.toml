@@ -1,0 +1,8 @@
+name = "Clumps-forge-1.20.1-12.0.0.4"
+filename = "Clumps-forge-1.20.1-12.0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/Clumps-forge-1.20.1-12.0.0.4.jar"
+hash-format = "sha256"
+hash = "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a"

@@ -1,0 +1,8 @@
+name = "lionfishapi-3.0"
+filename = "lionfishapi-3.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/lionfishapi-3.0.jar"
+hash-format = "sha256"
+hash = "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"

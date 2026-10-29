@@ -1,0 +1,8 @@
+name = "maps3d_1.2.4-1.20.1-forge"
+filename = "maps3d_1.2.4-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/maps3d_1.2.4-1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "9d69d4993800c2565155aae89419003c619862b7f62108535150d73a71214c04"

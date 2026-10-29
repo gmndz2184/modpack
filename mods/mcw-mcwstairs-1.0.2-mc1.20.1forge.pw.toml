@@ -1,0 +1,8 @@
+name = "mcw-mcwstairs-1.0.2-mc1.20.1forge"
+filename = "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
+hash-format = "sha256"
+hash = "c952bf7b9eec89071d05da79f73459565847c65187b2f342fa0933c46605bfea"

@@ -1,0 +1,8 @@
+name = "trade-cycling-forge-1.20.1-1.0.18"
+filename = "trade-cycling-forge-1.20.1-1.0.18.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/trade-cycling-forge-1.20.1-1.0.18.jar"
+hash-format = "sha256"
+hash = "05e2a8a188978602a5cec25d733948c0413a63859c02bb60ec54c380c5f4609e"

@@ -1,0 +1,8 @@
+name = "GlitchCore-forge-1.20.1-0.0.1.1"
+filename = "GlitchCore-forge-1.20.1-0.0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+hash-format = "sha256"
+hash = "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"

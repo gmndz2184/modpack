@@ -1,0 +1,8 @@
+name = "bellsandwhistles-0.4.5-1.20.x-Create6.0+"
+filename = "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar"
+hash-format = "sha256"
+hash = "90f102b26c410f9dfebf6ea5dfc0ec42b1ac5bde9d4634f5e038a5d17121eb2f"

@@ -1,0 +1,8 @@
+name = "OctoLib-FORGE-0.5.0.1+1.20.1"
+filename = "OctoLib-FORGE-0.5.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
+hash-format = "sha256"
+hash = "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"

@@ -1,0 +1,8 @@
+name = "bookofdragons-1.31-1.20.1"
+filename = "bookofdragons-1.31-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/bookofdragons-1.31-1.20.1.jar"
+hash-format = "sha256"
+hash = "87abe5953c1e93460bc5eb47c1df1404c32143ecb35beec158d24abb56300753"

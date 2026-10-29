@@ -1,0 +1,8 @@
+name = "corpse-forge-1.20.1-1.0.23"
+filename = "corpse-forge-1.20.1-1.0.23.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/corpse-forge-1.20.1-1.0.23.jar"
+hash-format = "sha256"
+hash = "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"

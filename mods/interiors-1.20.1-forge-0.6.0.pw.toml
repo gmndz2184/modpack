@@ -1,0 +1,8 @@
+name = "interiors-1.20.1-forge-0.6.0"
+filename = "interiors-1.20.1-forge-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/interiors-1.20.1-forge-0.6.0.jar"
+hash-format = "sha256"
+hash = "22d256df6dc6249e3421c0cffd1aa4454434fe840401171d288baa2da7dfd441"

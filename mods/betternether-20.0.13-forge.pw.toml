@@ -1,0 +1,8 @@
+name = "BetterNether-20.0.13-forge"
+filename = "BetterNether-20.0.13-forge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/BetterNether-20.0.13-forge.jar"
+hash-format = "sha256"
+hash = "44284b6d11c747b44aa885140e3cdc8e5c8af1f01272889ffc8fd180f06d6577"

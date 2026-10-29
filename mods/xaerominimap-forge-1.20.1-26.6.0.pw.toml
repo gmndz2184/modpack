@@ -1,0 +1,8 @@
+name = "xaerominimap-forge-1.20.1-26.6.0"
+filename = "xaerominimap-forge-1.20.1-26.6.0.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/xaerominimap-forge-1.20.1-26.6.0.jar"
+hash-format = "sha256"
+hash = "9b39cd06094d7631c8614d172d0ba8399c71c981530af417f12a7909fcb855bd"

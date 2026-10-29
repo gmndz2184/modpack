@@ -1,0 +1,8 @@
+name = "TAB v5.5.0 1.20 - 1.20.1"
+filename = "TAB v5.5.0 1.20 - 1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/TAB%20v5.5.0%201.20%20-%201.20.1.jar"
+hash-format = "sha256"
+hash = "923bf92bf1b110a091c89a3bc4f2b56df0c6fbc821f52d1a3b4c1e4d7333ffeb"

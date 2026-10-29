@@ -1,0 +1,8 @@
+name = "ftb-essentials-forge-2001.2.4"
+filename = "ftb-essentials-forge-2001.2.4.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/ftb-essentials-forge-2001.2.4.jar"
+hash-format = "sha256"
+hash = "e0022bfe29dc10e373947701dae1bc4ce75ee15fe21f6d89269677fbb9aebf73"
