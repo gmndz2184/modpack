@@ -1,0 +1,13 @@
+name = "server"
+author = "gmndz2184"
+version = "1.0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "59d80e9331cf2403b481ca9691637b49d3b27f6a4cc99a7af182abac9b48ef2d"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"
