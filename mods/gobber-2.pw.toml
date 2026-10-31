@@ -1,0 +1,8 @@
+name = "Gobber 2"
+filename = "Gobber2-Forge-1.20.1-2.8.9.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/Gobber2-Forge-1.20.1-2.8.9.jar"
+hash-format = "sha256"
+hash = "b57f298e421d50fb242b2f5c5f67dce8bdf6f47b83443d9fca8f9bcb82963d73"

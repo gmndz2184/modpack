@@ -1,0 +1,8 @@
+name = "Create Connected"
+filename = "create_connected-1.2.3-mc1.20.1-all.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/create_connected-1.2.3-mc1.20.1-all.jar"
+hash-format = "sha256"
+hash = "5f584f118f2bda3dfeed8b8fc9198ea143c6988e2f6f04eb63f42c0da8b50e63"

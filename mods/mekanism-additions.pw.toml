@@ -1,0 +1,8 @@
+name = "Mekanism Additions"
+filename = "MekanismAdditions-1.20.1-10.4.16.80.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/MekanismAdditions-1.20.1-10.4.16.80.jar"
+hash-format = "sha256"
+hash = "980a86196b872ca7a66a76d37fe2119097beb8e9cc7f0fad44aa0bb47f7d83a4"
