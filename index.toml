@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/addonslib-forge-1.20.1-1.11.pw.toml"
+hash = "95bec9ed146f577185cede37aea65cb5fead3366b3441963b9a34a03eb141c3a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.pw.toml"
 hash = "675eb4242a5989379512a551794e596390298173275971b51527812edb6a34b1"
 metafile = true

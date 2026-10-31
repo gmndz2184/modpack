@@ -1,0 +1,8 @@
+name = "addonslib-forge-1.20.1-1.11"
+filename = "addonslib-forge-1.20.1-1.11.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/gmndz2184/modpack/main/jars/addonslib-forge-1.20.1-1.11.jar"
+hash-format = "sha256"
+hash = "5e8679dbe21e6cb77b56b67422465204064bf80b3d33e7913239707c76c8699e"
